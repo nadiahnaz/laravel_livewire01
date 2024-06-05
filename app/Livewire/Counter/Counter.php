@@ -19,6 +19,9 @@ class Counter extends Component
     {
         if ($this->counter >= 1)
             $this->counter--;
+        else {
+            # do nothing
+        }
     }
 
 

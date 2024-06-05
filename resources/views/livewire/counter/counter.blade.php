@@ -12,11 +12,11 @@
     <x-modal name="say-thank-you" :show="$close" focusable>
 
             <h2 class="text-lg font-medium text-gray-900 dark:text-gray-100">
-                {{ __('Alhamdulillah cukup 100 hari ini. Terima kasih kerana mengingati Allah.') }}
+                {{ __('Alhamdulillah cukup 100 hari ini. Terima kasih kerana mengingati Allah dan semoga dapat menuju ke syurga.') }}
             </h2>
 
             <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">
-                {{ __('Teruskan berzikir menggunakan aplikasi kami. Sekian.') }}
+                {{ __('Teruskan berzikir menggunakan aplikasi kami. Jangan lupa beri review 5 bintang.') }}
             </p>
 
             <div class="mt-6 flex justify-end">
