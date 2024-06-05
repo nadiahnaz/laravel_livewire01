@@ -13,7 +13,7 @@
                     Content
                 </th>
                 <th scope="col" class="px-6 py-3">
-                    Action
+                    Action Required
                 </th>
             </tr>
         </thead>
